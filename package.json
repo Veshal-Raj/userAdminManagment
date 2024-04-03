@@ -7,7 +7,7 @@
     "mongoose": "^7.4.3",
     "nodemon": "^3.0.1"
   },
-  "name": "sandeep",
+  "name": "nodejsProject",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
